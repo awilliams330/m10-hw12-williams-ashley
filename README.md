@@ -1,3 +1,5 @@
+I had no issues
+
 # ES6 Classes
 
 &nbsp;
